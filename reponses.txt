@@ -1,0 +1,4 @@
+6)a) La commande git pull permet de mettre à jour son dépot local par rapport aux modification effectuées sur le dépot distant
+6)b)
+6)c) On utilise la commande git branch-d une fois sur la branche
+6)d) On utilise la commande git log <nom du fichier>
